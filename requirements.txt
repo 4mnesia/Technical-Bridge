@@ -1,0 +1,22 @@
+# Capstone SINADER - Python 3.12.8
+# Instalar:  .venv\Scripts\python.exe -m pip install -r requirements.txt
+
+# Datos
+pandas==3.0.5
+numpy==2.5.2
+pyarrow==25.0.1
+numexpr==2.14.2
+
+# Visualizacion
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Modelado
+scikit-learn==1.9.0
+lightgbm==4.7.0
+scipy==1.18.0
+joblib==1.5.3
+
+# Notebook
+ipykernel==7.3.0
+jupyter==1.1.1
